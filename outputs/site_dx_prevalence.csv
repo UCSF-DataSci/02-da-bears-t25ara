@@ -1,9 +1,9 @@
 site_id,site_name,site_type,patients_seen,diabetes_patients,diabetes_prevalence
-SITE-001,North Shannonbury Regional Hospital,Regional Hospital,14622,3830,0.262
-SITE-005,New Leonardside Specialty Center,Specialty Center,8645,1299,0.15
-SITE-007,Port Jeremychester Community Clinic,Community Clinic,6055,1830,0.302
-SITE-003,New Eileenton Community Clinic,Community Clinic,11235,1765,0.157
-SITE-008,Jeffborough Community Clinic,Community Clinic,9891,3350,0.339
-SITE-002,Lake Edwin Regional Hospital,Regional Hospital,23384,6796,0.291
-SITE-006,South Priscilla Regional Hospital,Regional Hospital,14895,4859,0.326
-SITE-004,East Nicolashaven Community Clinic,Community Clinic,11273,4259,0.378
+SITE-002,Lake Edwin Regional Hospital,Regional Hospital,23384,6796,0.2906260691070818
+SITE-004,East Nicolashaven Community Clinic,Community Clinic,11273,4259,0.37780537567639494
+SITE-005,New Leonardside Specialty Center,Specialty Center,8645,1299,0.15026026604973974
+SITE-001,North Shannonbury Regional Hospital,Regional Hospital,14622,3830,0.2619340719463822
+SITE-006,South Priscilla Regional Hospital,Regional Hospital,14895,4859,0.32621685129238
+SITE-003,New Eileenton Community Clinic,Community Clinic,11235,1765,0.1570983533600356
+SITE-008,Jeffborough Community Clinic,Community Clinic,9891,3350,0.3386917399656253
+SITE-007,Port Jeremychester Community Clinic,Community Clinic,6055,1830,0.3022295623451693
